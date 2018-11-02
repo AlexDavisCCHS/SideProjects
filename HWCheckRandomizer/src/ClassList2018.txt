@@ -1,0 +1,167 @@
+Culver City High School,10/25/2018
+2018-2019,Class List by Section,Page 1
+Sec#,1001,Pd:,1,Sem:,Y,Crs: CTE IT Esntials,Tch: Davis,Rm:,130
+STU#,Student Name,Grade,Sex,STU#,Student Name,Grade,Sex
+016785,"Arreola, Allen",12,M
+014645,"Borrego, Pascal",12,M
+014714,"Callahan Reyes, Isaiah",12,M
+015016,"Chappelear, Cameron",12,M
+015928,"Crawford, Christopher",11,M
+017520,"Garcia, Andrew",12,M
+014592,"Goldberg, Daniel",12,M
+015853,"Hernandez, Reina",11,F
+017556,"Lance, Carter",9,M
+017435,"Lopez Jimenez, Nayelli",11,F
+015195,"Lucas, Jack",11,M
+017172,"Moses, Ari",9,M
+015494,"Notta, Zubair",11,M
+015211,"Ramirez, Luis",11,M
+015631,"Salman, Mohamed",11,M
+015500,"Salvador, Hugo",11,M
+015865,"Samia, Travis",11,M
+015437,"Saucedo, Steven",11,M
+016158,"Smith, Dylan",10,M
+014469,"Treleven, Declan",12,M
+015918,"Von Hessenstein, Maximillian",12,M
+Total Students:,21
+Culver City High School,10/25/2018
+2018-2019,Class List by Section,Page 2
+Sec#,0498,Pd:,2,Sem:,Y,Crs: AP Prin Com Sci,Tch: Davis,Rm:,130
+STU#,Student Name,Grade,Sex,STU#,Student Name,Grade,Sex
+015377,"Abbas, Salman",11,M
+014474,"Abraham-Davila, Andres",12,M
+015163,"Abrams, Grant",11,M
+015524,"Angyous, Kevin",11,M
+015167,"Arango, Charlie",11,M
+016557,"Cabrera, Kalvin",11,M
+015657,"Chang, Daniel",12,M
+015599,"Cordova, Alexandro",11,M
+014582,"Cummings, Brandon",12,M
+015830,"Euol, Natan",11,M
+015464,"Gamez, Paulo",11,M
+015512,"Gomez, Diego",11,M
+015691,"Htet, Zaw",11,M
+014976,"Kandouw, Rachel",12,F
+015281,"Minamida, Sakura",11,F
+014780,"Noah, Ruth",12,F
+014773,"Plascencia, Michael",12,M
+015717,"Pullum, Blake",11,M
+015433,"Rahaman, Lilliana",11,F
+015297,"Ridenour, Robert",11,M
+015213,"Rocha, Antonio",11,M
+016701,"Samson, Krystle",11,F
+015302,"St Claire, Maximilian",11,M
+015505,"Thotti, Nabeel",11,M
+015827,"Yakob, Kaleab",11,M
+Total Students:,25
+Culver City High School,10/25/2018
+2018-2019,Class List by Section,Page 3
+Sec#,2292,Pd:,2,Sem:,Y,Crs: Prin Comp Sci,Tch: Davis,Rm:,130
+STU#,Student Name,Grade,Sex,STU#,Student Name,Grade,Sex
+017572,"Abdelmeseh, Andrew",9,M
+015454,"Cervantes Rodriguez, Pedro",11,M
+017520,"Garcia, Andrew",12,M
+015185,"Gramajo, Gary",11,M
+017568,"Hawkins, Luke",11,M
+015338,"Llorente, Sebastian",11,M
+015489,"Maxwell, Heath",11,M
+015491,"Melendez, Marlon",11,M
+015495,"Papenguth, Alia",11,F
+016735,"Stinnett, Colin",11,M
+Total Students:,10
+Culver City High School,10/25/2018
+2018-2019,Class List by Section,Page 4
+Sec#,2536,Pd:,3,Sem:,Y,Crs: AP Comp Sci A,Tch: Davis,Rm:,130
+STU#,Student Name,Grade,Sex,STU#,Student Name,Grade,Sex
+014573,"Atianzar, Dylan",12,M
+015926,"Biren, Sofia",11,F
+014972,"Byrd, Brennon",12,M
+014486,"Cornejo, Vincent",12,M
+014873,"Curry, Tyler",12,F
+014722,"De Los Angeles, David",12,M
+014588,"Doheny, Nabil",12,M
+014884,"Evans, Jayden",12,M
+015398,"Gerstmann, Isaac",11,M
+014592,"Goldberg, Daniel",12,M
+014729,"Hassan, Ali",12,M
+014959,"Henry, Sequoya",12,F
+014882,"Hernandez, Marilyn",12,F
+014778,"Moore, Cade",12,M
+015672,"Rehor, Evalie",11,F
+014828,"Reliford II, Richard",12,M
+016609,"Shah, Arya",11,M
+015439,"Shin, Justin",11,M
+014706,"Weinshank, Robert",12,M
+016372,"Yick, Nia",10,F
+014940,"Zarazua, Jacob",12,M
+Total Students:,21
+Culver City High School,10/25/2018
+2018-2019,Class List by Section,Page 5
+Sec#,2797,Pd:,3,Sem:,Y,Crs: AP Comp Sci A,Tch: Davis,Rm:,130
+STU#,Student Name,Grade,Sex,STU#,Student Name,Grade,Sex
+014481,"Berliner, Isabel",12,F
+015271,"Komatsu, Cooper",11,M
+015275,"Marcus, Oliver",11,M
+Total Students:,3
+Culver City High School,10/25/2018
+2018-2019,Class List by Section,Page 6
+Sec#,2535,Pd:,4,Sem:,Y,Crs: AP Comp Sci A,Tch: Davis,Rm:,130
+STU#,Student Name,Grade,Sex,STU#,Student Name,Grade,Sex
+014575,"Bae, Bryan",12,M
+014485,"Cary Green, Beckett",12,M
+014781,"Dresel Kurtz, Andrew",12,M
+014795,"Jung, Sean",12,M
+015269,"Kocher, James",11,M
+014689,"Rostamian, Arman",12,M
+014693,"Shimoda, Megan",12,F
+014883,"Smith, Peyton",12,M
+014555,"Tateda, Keishi",12,M
+014558,"Theryan, Theophilus",12,M
+016494,"Zeevi, Maya",10,F
+Total Students:,11
+Culver City High School,10/25/2018
+2018-2019,Class List by Section,Page 7
+Sec#,2796,Pd:,4,Sem:,Y,Crs: AP Comp Sci A,Tch: Davis,Rm:,130
+STU#,Student Name,Grade,Sex,STU#,Student Name,Grade,Sex
+014657,"Dickson, Desmond",12,M
+014926,"Fekrat, Ryan",12,M
+014918,"Fernandez, Camila",12,F
+014820,"Kim, Aidan",12,M
+014782,"Lem, Jaden",12,M
+015485,"Martinez, Diana",11,F
+014611,"Montgomery, Jairus",12,M
+014839,"Tellez, Matthew",12,M
+014559,"Tratar, Hunter",12,M
+Total Students:,9
+Culver City High School,10/25/2018
+2018-2019,Class List by Section,Page 8
+Sec#,2828,Pd:,4,Sem:,Y,Crs: Assoc Tchr,Tch: Davis,Rm:,130
+STU#,Student Name,Grade,Sex,STU#,Student Name,Grade,Sex
+014589,"Emelio, Leonardo",12,M
+Total Students:,1
+Culver City High School,10/25/2018
+2018-2019,Class List by Section,Page 9
+Sec#,2293,Pd:,6,Sem:,Y,Crs: AP Prin Com Sci,Tch: Davis,Rm:,130
+STU#,Student Name,Grade,Sex,STU#,Student Name,Grade,Sex
+015024,"Bains, Brian",12,M
+015235,"Cardenas, Yerzul",11,M
+015389,"Chhetri, Roshan",11,M
+015614,"Cooper, Harrison",11,M
+015750,"De La Torre, Christopher",11,M
+015323,"Egziabher, Daniel",11,M
+015253,"Glick, Benjamin",11,M
+014984,"Jeon, Somin",12,F
+016091,"Mazorra, Javier",10,M
+015585,"Tsega, Mathew",11,M
+015442,"Valle Dubon, Daniel",11,M
+015444,"Wang, Christopher",11,M
+015510,"Yan, Kyaw",11,M
+Total Students:,13
+Culver City High School,10/25/2018
+2018-2019,Class List by Section,Page 10
+Sec#,2700,Pd:,6,Sem:,Y,Crs: Prin Comp Sci,Tch: Davis,Rm:,130
+STU#,Student Name,Grade,Sex,STU#,Student Name,Grade,Sex
+015499,"Ruezga, Miguel",11,M
+016626,"Same Etame, Jason-Allen",11,M
+015366,"Stinson Bishop, Nnenna",11,F
+Total Students:,3
