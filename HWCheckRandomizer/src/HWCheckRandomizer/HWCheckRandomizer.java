@@ -7,7 +7,7 @@ public class HWCheckRandomizer {
 	public static void main(String[] args) throws IOException {
 		String nextVictim;
 		boolean used = false;
-		RosterReader test = new RosterReader("ClassList2018.txt" , "Prin" , 6);
+		RosterReader test = new RosterReader("ClassList2018.txt" , "Prin" , 2);
 		ArrayList <String> list = test.getStudentList();
 		int[] nextVictimIndexRecord = new int[list.size()];
 		for (int index = 0; index < list.size(); index++) {
