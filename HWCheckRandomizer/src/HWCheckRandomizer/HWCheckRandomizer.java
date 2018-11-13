@@ -3,11 +3,18 @@ package HWCheckRandomizer;
 import java.io.IOException;
 import java.util.ArrayList;
 
+import javax.swing.JOptionPane;
+
 public class HWCheckRandomizer {
 	public static void main(String[] args) throws IOException {
 		String nextVictim;
 		boolean used = false;
-		RosterReader test = new RosterReader("ClassList2018.txt" , "Prin" , 2);
+		String[] possibleClasses = {"AP Comp Sci period 3" , "Ap Comp Sci period 4"};
+		String className = (String) JOptionPane.showInputDialog(null,
+	             "Choose one", "Input",
+	             JOptionPane.QUESTION_MESSAGE, null,
+	             possibleClasses, possibleClasses[0]);
+		RosterReader test = new RosterReader("ClassList2018.txt" , "AP Comp Sci" , 4);
 		ArrayList <String> list = test.getStudentList();
 		int[] nextVictimIndexRecord = new int[list.size()];
 		for (int index = 0; index < list.size(); index++) {
@@ -24,9 +31,6 @@ public class HWCheckRandomizer {
 			}//end if used
 			else {
 				nextVictim = ((index+1) + " " + list.get(nextVictimIndexRecord[index]));
-				if (list.get(nextVictimIndexRecord[index]).equals("Berliner, Isabel") || list.get(nextVictimIndexRecord[index]).equals("Marcus, Oliver") || list.get(nextVictimIndexRecord[index]).equals("Hernandez, Marilyn")) {
-					nextVictim += " completed!";
-				}//end if done
 				System.out.println(nextVictim);
 			}//end else
 		}//end for
