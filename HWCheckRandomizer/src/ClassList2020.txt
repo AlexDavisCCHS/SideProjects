@@ -1,0 +1,270 @@
+Culver City High School,8/25/2020
+2020-2021,Class List by Section,Page 1
+Sec#,3341,Pd:,1,Sem:,Y,Crs: AP Prin Com Sci,Tch: Davis,Rm:,130
+Stu Id,Student Name,Grade,Gndr,Stu Id,Student Name,Grade,Gndr
+400002620,"Abdeen, Sarah",11,F
+300001275,"Brandt, Kristopher",11,M
+300001631,"Butler, Elijah",11,M
+500001751,"Check, Christian",11,M
+300001305,"Chew, Darren",11,M
+200001951,"De La Cruz, Antonio",11,M
+300001224,"Friedenthal, Matthew",12,M
+100005328,"Gleaton, Imani",12,F
+300001329,"Harrison, Alexander",11,M
+400002359,"Hillestad, Shane",10,M
+500001798,"Honda, Ronin",11,M
+900004232,"Jordan, Maxwell",11,M
+900004193,"Kurtz, Kaya",11,F
+600002106,"Martinez, Nicole",11,F
+300001314,"McDowell, Evann",11,F
+500002148,"Pogorel, Ocean",11,M
+400002036,"Reisman, Joseph",11,M
+100005275,"Sage, William",12,M
+900004270,"Salas, Aaron",11,M
+400002425,"Seman, Daniel",11,M
+200001947,"Siegel, Benjamin",11,M
+500001650,"Uribe, David",12,M
+500001892,"Vaux, Alekzander",10,M
+300001335,"Whitten, Calder",11,M
+Total Students:,24
+Culver City High School,8/25/2020
+2020-2021,Class List by Section,Page 2
+Sec#,3445,Pd:,1,Sem:,Y,Crs: Prin Comp Sci,Tch: Davis,Rm:,130
+Stu Id,Student Name,Grade,Gndr,Stu Id,Student Name,Grade,Gndr
+900004606,"Learnard, James",11,M
+400002738,"Mitchell, Jonathan",12,M
+500002636,"Monsted, Otto",11,M
+100005350,"Shaikh, Maaz",12,M
+600002083,"Talamantes, Matthew",11,M
+300001245,"Tratar, Brian",12,M
+Total Students:,6
+Culver City High School,8/25/2020
+2020-2021,Class List by Section,Page 3
+Sec#,3099,Pd:,2,Sem:,Y,Crs: AP Prin Com Sci,Tch: Davis,Rm:,130
+Stu Id,Student Name,Grade,Gndr,Stu Id,Student Name,Grade,Gndr
+400002126,"Alavez Castillo, Leonardo",11,M
+900004171,"Bankey, Gibson",12,M
+300001272,"Bingener, Nyala",11,F
+900004046,"Carr-Rollitt, Ryley",12,F
+400002047,"Chee, Thomas",11,M
+600002049,"Flores Hernandez, Cynthia",11,F
+500001819,"Garcia, Cecilia",11,F
+500001709,"Genicoff, Aaron",12,M
+400002088,"Gomez, Christian",11,M
+600002196,"Gonzalez Barrios, Scott",11,M
+900004280,"Gupta, Shanti",11,F
+900004102,"Hensley, Aidan",12,M
+900004129,"Hill, Alejandra",12,F
+500001639,"Ketsela, Habte",11,M
+500001741,"Lwin, Saeed",11,M
+600002212,"Mapile, Jayden-Marcus",11,M
+600002062,"Nguyen, Malachi",11,M
+600003022,"Ramirez, Ramiro",11,M
+100005545,"Russell, Adam",11,M
+400002852,"Saunders, Tora",11,M
+100005513,"Sheikh, Maliha",11,F
+900004214,"Sheldon, Luke",11,M
+400002008,"Skelley, Paul",11,M
+600002068,"Solis Alvarez, Matthew",11,M
+200001974,"Tetradis, Nikolaos",11,M
+150015343,"Wang, Austin",12,M
+900004018,"Wright-Baptiste, Quincy",12,M
+200002028,"Ylanzo Martinez, Kevin",11,M
+Total Students:,28
+Culver City High School,8/25/2020
+2020-2021,Class List by Section,Page 4
+Sec#,3479,Pd:,2,Sem:,Y,Crs: Prin Comp Sci,Tch: Davis,Rm:,130
+Stu Id,Student Name,Grade,Gndr,Stu Id,Student Name,Grade,Gndr
+200001708,"Altbach, Mikhail",12,M
+600001918,"Baniaga, Jordan",12,M
+400002353,"Chavez, Marcos",11,M
+500001810,"Garcia, Kevin",11,M
+600002177,"Hernandez, Kevin",11,M
+100005598,"Kavehpour, Pontea",11,F
+900004421,"Mejia, Gabriel",11,M
+900004669,"Victor, James",10,M
+Total Students:,8
+Culver City High School,8/25/2020
+2020-2021,Class List by Section,Page 5
+Sec#,2536,Pd:,3,Sem:,Y,Crs: AP Comp Sci A,Tch: Davis,Rm:,130
+Stu Id,Student Name,Grade,Gndr,Stu Id,Student Name,Grade,Gndr
+600001849,"Andrade, Eric",12,M
+200001693,"Aquino, Lance Jordan",12,M
+300001211,"Arguello, Sia",12,F
+400003141,"Bhandari, Shambhavi",12,F
+400001817,"Cushing, Kyle",12,M
+900004419,"De Souza Campos, Maria",12,F
+300001528,"Donnelly, Aidan",12,M
+200001709,"Doumitt, Sophie",12,F
+100005380,"Favors, Nandi",12,F
+200001768,"Fite, Lucas",12,M
+100005629,"Gardner, James",12,M
+300001225,"Haro, Johnny",12,M
+400001783,"Levels, Amari",12,M
+200001766,"Luna Carillo, Jesus",12,M
+600001836,"Mateo, Anthony",12,M
+400001796,"Nee, Cody",12,M
+400001808,"Ortega, Steven",12,M
+100005304,"Sage, Elijah",12,M
+400002062,"Saldanha, Andre",11,M
+600001888,"Salmeron Sanchez, Daisy",12,F
+200001717,"Wickham, Bertrand",12,M
+300001247,"Yang, Asia",12,F
+Total Students:,22
+Culver City High School,8/25/2020
+2020-2021,Class List by Section,Page 6
+Sec#,3475,Pd:,3,Sem:,Y,Crs: AP Comp Sci A,Tch: Davis,Rm:,130
+Stu Id,Student Name,Grade,Gndr,Stu Id,Student Name,Grade,Gndr
+400001861,"Baeza, Nuvia",12,F
+500002115,"Forgeng, Laura",12,F
+Total Students:,2
+Culver City High School,8/25/2020
+2020-2021,Class List by Section,Page 7
+Sec#,3446,Pd:,4,Sem:,Y,Crs: AP Prin Com Sci,Tch: Davis,Rm:,130
+Stu Id,Student Name,Grade,Gndr,Stu Id,Student Name,Grade,Gndr
+400002871,"Abdul-Muhaimin, Hishaam",11,M
+150015164,"Adams, Elijah",11,M
+900004303,"Bell, Rylan",12,M
+100005329,"Bushnell, Jack",12,M
+500001737,"Cavalheiro, Dylan",11,F
+100005299,"Cerda, Itzely",12,F
+200002041,"Chu, Peter",11,M
+100005393,"Clayman, Noelle",12,F
+900004982,"Cole, Ethan",9,M
+200001949,"Dimitroff, Evan",11,M
+900004520,"Eshetu, Fasil",11,M
+200002191,"Goldsmith, Mikayla",10,F
+600002203,"Grahn, Joseph",11,M
+500001658,"Hayden, Devin",12,M
+100005293,"Heinze, Nicole",12,F
+600002121,"Hines, Kai",11,M
+200001894,"Jain, Rohan",11,M
+500001652,"Jaramillo, Alex",12,M
+100005315,"Kandouw, Sharon",12,F
+100005383,"Lee, Kaylee",12,F
+300001201,"Mansfield, Steven",12,M
+400002115,"Moniz, Luke",11,M
+300001295,"Pongos, Justin",11,M
+300001236,"Richards, Ezra",12,M
+900004229,"Salem, Forest",11,M
+500001844,"Shin, Sydney",11,F
+300001358,"Sugiyama, Ray",12,M
+400002029,"Troyan, Gregory",11,M
+500002634,"Tsega, Abel",11,M
+500001636,"Yankopoulos, Wiley",12,M
+400002017,"Zee, Maya",11,F
+Total Students:,31
+Culver City High School,8/25/2020
+2020-2021,Class List by Section,Page 8
+Sec#,3483,Pd:,4,Sem:,Y,Crs: Prin Comp Sci,Tch: Davis,Rm:,130
+Stu Id,Student Name,Grade,Gndr,Stu Id,Student Name,Grade,Gndr
+200001956,"Quintero Osborne, Daniel",11,M
+500002152,"Zavala, Edwin",12,M
+Total Students:,2
+Culver City High School,8/25/2020
+2020-2021,Class List by Section,Page 9
+Sec#,3132,Pd:,5,Sem:,Y,Crs: AP Comp Sci A,Tch: Davis,Rm:,130
+Stu Id,Student Name,Grade,Gndr,Stu Id,Student Name,Grade,Gndr
+400001870,"Andrade, Jasmine",12,F
+600001875,"Cadena, Daniel",12,M
+900004397,"Chan, Ho Yin",12,M
+200001775,"Das, Pitamber",11,M
+600001856,"De La Trinidad, Jovanna",12,F
+300001354,"Duron, Tristan",12,M
+500001595,"Fune, Beneen",12,F
+900003989,"Gay, Darrius",12,M
+500002603,"Graham, Henry",11,M
+400002051,"Kabir, Maher",11,M
+300001312,"Klowden, Zoe",11,F
+500001760,"Levi, Isabella",12,M
+500001604,"Lwin, Shoive",12,M
+600002000,"Mitchell, Cole",12,M
+100005337,"Mohan Kumar, Sanjeev ",12,M
+100005301,"Palkhade, Arjun",12,M
+200003173,"Parekh, Cyrus",12,M
+400002261,"Saldanha, Naomi",10,F
+200001761,"Serrano-Rubio, Diego",12,M
+Total Students:,19
+Culver City High School,8/25/2020
+2020-2021,Class List by Section,Page 10
+Sec#,3478,Pd:,5,Sem:,Y,Crs: AP Comp Sci A,Tch: Davis,Rm:,130
+Stu Id,Student Name,Grade,Gndr,Stu Id,Student Name,Grade,Gndr
+100005511,"Gonzalez, Vivian",12,F
+600002055,"Sheikh, Reshma",11,F
+200001733,"Wang, Margaret",12,F
+Total Students:,3
+Culver City High School,8/25/2020
+2020-2021,Class List by Section,Page 11
+Sec#,3447,Pd:,6,Sem:,Y,Crs: AP Prin Com Sci,Tch: Davis,Rm:,130
+Stu Id,Student Name,Grade,Gndr,Stu Id,Student Name,Grade,Gndr
+500001624,"Brown, Hayden",12,M
+600002190,"Castillo, Jesse",11,M
+400002133,"Davila, Leonardo",11,M
+500002466,"Hiraoka, Jonah",11,M
+900004210,"Jamerson, Qu'Marre",11,M
+300001435,"Klemes, Brett",11,M
+500001782,"Lee, Sarina",11,F
+400002073,"Leon, Shruthi",11,F
+600002111,"Martinez, Alexander",11,M
+500002769,"Mehra, Aarav",10,M
+600002066,"Moses, Ari",11,M
+300001291,"Nakamoto, Nathan",11,M
+600002465,"Pandey, Gaurav",11,M
+400002121,"Pontes, Nicolas",11,M
+400002002,"Rayford, Jared",11,M
+600002070,"Revel, Shane",11,M
+600002069,"Revel, Zachary",11,M
+100005355,"Roman, Kiana",12,F
+200001891,"Rostamian, Camran",11,M
+600002313,"Sato, Hope",10,F
+400002649,"Sherif, Najih",11,M
+200001923,"Steins, Maxwell",11,M
+Total Students:,22
+Culver City High School,8/25/2020
+2020-2021,Class List by Section,Page 12
+Sec#,3484,Pd:,6,Sem:,Y,Crs: Prin Comp Sci,Tch: Davis,Rm:,130
+Stu Id,Student Name,Grade,Gndr,Stu Id,Student Name,Grade,Gndr
+900004415,"Burton, Sydney",11,F
+900004042,"Camberos, Sofia",12,F
+900004201,"Conover, Keagan",11,M
+900004540,"Hodge, Julian",11,M
+200002061,"Ibrahim, Mahamed",11,M
+400002078,"Patton, William",11,M
+200001732,"Santiago Martinez, Gustavo",12,M
+100005743,"Stiviano, Alexandro",12,M
+400001792,"Tjomsland, Erik",12,M
+100005318,"Turner, Dallas",12,F
+Total Students:,10
+Culver City High School,8/25/2020
+2020-2021,Class List by Section,Page 13
+Sec#,1807,Pd:,8,Sem:,Y,Crs: Advisory 12,Tch: Davis,Rm:,130
+Stu Id,Student Name,Grade,Gndr,Stu Id,Student Name,Grade,Gndr
+400001852,"Acevedo Ojeda, Celeste",12,F
+900004066,"Anaya Aguiar, Alicia",12,F
+400001861,"Baeza, Nuvia",12,F
+100005344,"Bojorquez, Jared",12,M
+900003999,"Campos, Brian",12,M
+400001834,"Concepcion, Miles",12,M
+400002109,"DeLeon, Julian",12,M
+100005379,"Eckhaus, Zev",12,M
+300001336,"Flores, Nicolas",12,M
+600002439,"George, Anthony",12,M
+100005317,"Graves, Arianna",12,F
+100005279,"Hausrath, Jackson",12,M
+100005365,"Hoo, Bernard",12,M
+600003006,"Jeong, Joshua",12,M
+300001227,"Kotero, Julissa",12,F
+600001958,"Lopez, Alexis",12,F
+500001620,"Marotti, Gabriel",12,M
+400001799,"Maung, Nosheen",12,F
+100005491,"Mendoza, Ezequiel",12,M
+300001232,"Nascimento, Aidan",12,M
+200001762,"Ortiz Miranda, Diego",12,M
+300001235,"Prieto Plascencia, Josue",12,M
+500001611,"Reyes, Tatiana",12,F
+600001874,"Rubalcava, Jenny",12,F
+400002192,"Smith, Parker",12,M
+400001775,"Swanson, Luke",12,M
+100005318,"Turner, Dallas",12,F
+200001681,"Warren, Ghalia",12,F
+Total Students:,28

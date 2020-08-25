@@ -9,12 +9,12 @@ public class HWCheckRandomizer {
 	public static void main(String[] args) throws IOException {
 		String nextVictim;
 		boolean used = false;
-		String[] possibleClasses = {"AP Comp Sci period 3" , "Ap Comp Sci period 4"};
+		String[] possibleClasses = {"AP Prin Com Sci period 1" , "AP Prin Com Sci period 2" , "AP Comp Sci period 3" , "AP Prin Com Sci period 4" , "Ap Comp Sci period 5" , "AP Prin Com Sci period 6"};
 		String className = (String) JOptionPane.showInputDialog(null,
 	             "Choose one", "Input",
 	             JOptionPane.QUESTION_MESSAGE, null,
 	             possibleClasses, possibleClasses[0]);
-		RosterReader test = new RosterReader("ClassList2018.txt" , "AP Comp Sci" , 4);
+		RosterReader test = new RosterReader("ClassList2020.txt" , "AP Prin" , 6);
 		ArrayList <String> list = test.getStudentList();
 		int[] nextVictimIndexRecord = new int[list.size()];
 		for (int index = 0; index < list.size(); index++) {
